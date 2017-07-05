@@ -1,5 +1,5 @@
 # Odin-Project
-Stuff made for assignments on [The Odin Project](https://www.theodinproject.com/home)
+Stuff made for [The Odin Project](https://www.theodinproject.com/home)
 
 ## Lessons
 * [Web Development 101](https://github.com/morrisa-n/Odin-Project#web-development-101)
