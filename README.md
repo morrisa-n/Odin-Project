@@ -2,6 +2,10 @@
 Stuff made for assignments on [The Odin Project](https://www.theodinproject.com/home)
 
 ## Web Development 101
+### Git Basics
+PROJECTS
+* [Project: Practicing Git Basics](https://github.com/morrisa-n/Odin-Project/tree/master/Projects/git_test) - getting slightly familiar with Git and Github
+
 ### The Front End
 #### HTML & CSS
 ASSIGNMENTS
