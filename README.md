@@ -19,6 +19,7 @@ ASSIGNMENTS
 * [Animated Android Logo](https://github.com/morrisa-n/Odin-Project/tree/master/Assignments/Android) in HTML and CSS
 
 PROJECTS
+* [Recreate Google Homepage](https://github.com/morrisa-n/Odin-Project/tree/master/Projects/google_homepage)
 
 #### Javascript
 ASSIGNMENTS
