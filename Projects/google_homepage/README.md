@@ -1,1 +1,0 @@
-Made for The Odin Project's [Web Development 101 HTML/CSS project](https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav)
