@@ -30,7 +30,7 @@
     outline-color: #4c4c4c;
     outline-style: auto;
     outline-width: 5px;
-    line-height: 27px;
+    line-height: 20px;
     box-sizing: border-box;
     }
 
@@ -62,4 +62,64 @@
 
 .nav #current li a {
     color: #ffffff;
+    }
+
+
+#right {
+    float: right;
+    position: relative;
+    }
+
+#logo {
+    height: 92px;
+    width: 272px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 56px;
+    margin-bottom: 28px;
+    }
+    
+#form {
+    width: 514px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+#form input {
+    height: 32px;
+    width: 514px;
+    font-size: 1.2em;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+#tools ul {
+    position: relative;
+    left: -430px;
+    top: -35px;
+    display: inline;
+    float: right;
+    }
+
+#tools li {
+    list-style-type: none;
+    line-height: .8em;
+    }
+    
+#tools a {
+    text-decoration: none;
+    font-size: .7em;
+    }
+
+.holder {
+    display: block;
+    width: 245px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.holder input {
+    width: 120px;
+    height: 50px;
     }
