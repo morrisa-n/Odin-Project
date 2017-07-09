@@ -1,10 +1,10 @@
 * {
     margin: 0;
     padding: 0;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    -ms-box-sizing: border-box !important;
     box-sizing: border-box;
-      -webkit-box-sizing: border-box !important;
-      -moz-box-sizing: border-box !important;
-      -ms-box-sizing: border-box !important;
     }
 
 .nav {
@@ -25,6 +25,9 @@
     padding: 0 9px;
     height: 27px;
     border: none;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    -ms-box-sizing: border-box !important;
     box-sizing: border-box!important;
     }
     
@@ -32,10 +35,10 @@
     position: relative;
     background: #4c4c4c;
     height: 27px;
-    box-sizing: border-box!important;
     -webkit-box-sizing: border-box !important;
     -moz-box-sizing: border-box !important;
     -ms-box-sizing: border-box !important;
+    box-sizing: border-box!important;
     outline: 2px solid #4c4c4c;
     z-index: 1;
     }
