@@ -10,6 +10,10 @@
 body {
     background: #f1f1f1;
     }
+    
+.fa {
+    color: #c0c0c0;
+    }
 
 .bar {
     background: #ffffff;
@@ -18,40 +22,94 @@ body {
     padding: 14px 20px;
     }
     
+.bar ul {
+    position: absolute;
+    }
+    
 .bar li {
     position: relative;
     display: inline;
-    padding-bottom: 30px;
-    }
-    
-.fa {
-    color: #c0c0c0;
     }
     
 .fa-bars {
+    position: relative;
+    top: -45px;
     transform: scale(.8, .8);
     }
 
 #logo {
-    height: 40px;
+    height: 60px;
+    position: relative;
+    top: -20px;
+    }
+    
+#search {
+    position: relative;
+    top: -46px;
     }
 
 #search input {
     width: 550px;
     height: 29px;
+    border-width: 1px 0 1px 1px;
+    border-style: solid;
+    border-color: #e7e7e7;
+    padding: 4px;
     }
 
 #search button {
     height: 29px;
     width: 65px;
     background-color: #f8f8f8;
+    border-left: 0;
+    border-top: 1px solid #f4f4f4;
+    border-right: 1px solid #e7e7e7;
+    border-bottom: 1px solid #f4f4f4;
+    border-radius: 4px;
+    }
+
+#right {
+    float: right;
+    position: relative;
+    top: -6px;
+    margin-right: 0px;
+    margin-left: 36em;
+    }
+    
+.fa-upload {
+    position: relative;
+    top: 2px;
     }
 
 #signin button {
+    position: relative;
     width: 65px;
     height: 29px;
     background: #126db3;
     color: #fff;
     font-family: Roboto, Arial, sans-serif;
+    border: none;
+    padding-bottom: 2px;
+    margin-left: 30px;
+    }
+    
+content {
+    position: relative;
+    left: 160px;
+    top: 20px;
+    }
+
+.video {
+    background: #fff;
+    width: 854px;
+    height: 480px;
+    }
+
+.sidebar {
     float: right;
+    position: relative;
+    width: 420px;
+    height: 1000px;
+    left: -290px;
+    background: #fff;
     }
