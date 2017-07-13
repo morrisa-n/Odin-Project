@@ -113,4 +113,18 @@ content {
     height: 1000px;
     left: -290px;
     background: #fff;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 1.2em;
+    }
+
+.sidebar li {
+    display: inline-block;
+    }
+
+.autoplay {
+    position: relative;
+    right: -150px;
+    color: #c0c0c0;
+    word-spacing: .08em;
     }
