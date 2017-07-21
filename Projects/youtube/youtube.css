@@ -110,7 +110,7 @@ content {
     float: right;
     position: relative;
     width: 420px;
-    height: 1000px;
+    height: 100%;
     left: -290px;
     background: #fff;
     font-weight: bold;
@@ -127,4 +127,53 @@ content {
     right: -150px;
     color: #c0c0c0;
     word-spacing: .08em;
+    }
+    
+.item {
+    margin-top: 1em;
+    line-height: .8em;
+    }
+    
+.thumb {
+    float: left;
+    margin-right: 0.4em;
+    width: 170px;
+    height: 95px;
+    }
+
+.item h3 {
+    font-size: 0.8em;
+    }
+    
+.item p {
+    font-size: 0.4em;
+    }
+    
+.item h3 a {
+    color: #3d3d3d;
+    text-decoration: none;
+    }
+    
+.item a {
+    color: #868686;
+    text-decoration: none;
+    }
+    
+.item1 {
+    padding-bottom: 1em;
+    border-bottom: 1px solid #868686;
+    }
+    
+.more {
+    margin-top: .5em;
+    border-top: 1px solid #868686;
+    text-align: center;
+    }
+    
+.more a {
+    text-decoration: none;
+    color: #868686;
+    font-size: 0.8em;
+    width: 80%;
+    margin: 0 auto;
     }
